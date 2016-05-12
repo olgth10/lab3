@@ -1,0 +1,15 @@
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\bin\Debug\Lab3.exe
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Form1.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.exe
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Forms.SegmentForm.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Forms.ParmForm.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Forms.RhombusForm.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Forms.ShRhombusForm.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Forms.TrapezeForm.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Lab3\obj\Debug\Lab3.Forms.PardForm.resources
